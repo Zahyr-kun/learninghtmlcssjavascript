@@ -1,1 +1,1 @@
-
+coast tombolSapa = document.getElementById
