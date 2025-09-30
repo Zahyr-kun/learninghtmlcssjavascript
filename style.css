@@ -13,9 +13,4 @@ body {
   box-shadow: 0 4px 8px rgba(10,0,62,0.87);
 }
 
-.foto {
-    display: flex;
-      justify-content: center; /* Pusatkan horizontal */
-      align-items: center;     /* Pusatkan vertical */
-      gap: 20px;
-}
+.my-profil-gwe
