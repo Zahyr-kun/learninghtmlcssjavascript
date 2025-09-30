@@ -13,4 +13,7 @@ body {
   box-shadow: 0 4px 8px rgba(10,0,62,0.87);
 }
 
-.my-profil-gwe
+.my-profil-gwe {
+  width: 150px;
+  border-radius: 50px;
+}
